@@ -1,0 +1,3 @@
+[submodule "CherryUSB-Daplink"]
+	path = CherryUSB-Daplink
+	url = git@github.com:HaiMianBBao/CherryUSB-Daplink.git
